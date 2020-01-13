@@ -1,0 +1,17 @@
+{
+  "name": "trigger-bot",
+  "version": "1.0.0",
+  "description": "please refer to readme.md",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mohamed Medhat",
+  "license": "MIT",
+  "dependencies": {
+    "concentrate": "^0.2.3",
+    "iohook": "^0.6.2",
+    "memoryjs": "^3.2.3",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}

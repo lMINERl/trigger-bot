@@ -1,0 +1,7 @@
+{
+  "trailingComma": "none",
+  "singleQuote": true,
+  "parser": "babel",
+  "proseWrap": "always",
+  "printWidth": 200
+}
